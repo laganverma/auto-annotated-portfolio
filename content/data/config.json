@@ -27,18 +27,18 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/laganverma",
+                "icon": "github"
+            },
+            {
+                "type": "Social",
                 "label": "Facebook",
                 "altText": "",
                 "url": "https://in.linkedin.com/in/lagan-verma-b97a7b1a4",
                 "icon": "linkedin",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/laganverma",
-                "icon": "github"
             },
             {
                 "type": "Social",
