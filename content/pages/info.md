@@ -136,7 +136,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://in.linkedin.com/in/lagan-verma-b97a7b1a4'
         styles:
           self:
             textAlign: left
