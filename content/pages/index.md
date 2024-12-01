@@ -184,7 +184,7 @@ sections:
           width: full
           isRequired: false
       submitLabel: Send Message
-      elementId: contact-form
+      elementId: Netlify
       styles:
         submitLabel:
           textAlign: left
