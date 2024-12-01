@@ -39,7 +39,6 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
-        fontStyle: italic
         fontWeight: 400
       subtitle:
         textAlign: left
