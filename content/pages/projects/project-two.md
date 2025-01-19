@@ -3,7 +3,7 @@ type: ProjectLayout
 title: INCIDENT RESPONSE SIMULATION FRAMEWORK
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: MAJOR PROJECT
 description: >-
   The python application using tkinter for GUI, simulating user login behavior
   with alerts for suspicious activities, and generating reports and
