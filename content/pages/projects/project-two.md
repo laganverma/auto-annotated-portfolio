@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: FtC3ASJeXa6Dm6v
+title: INCIDENT RESPONSE SIMULATION FRAMEWORK
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
